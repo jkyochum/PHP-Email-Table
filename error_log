@@ -1,0 +1,6 @@
+[27-Apr-2018 14:41:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/peqpypmy/public_html/php/demo/demo.html.php on line 17
+[27-Apr-2018 14:44:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home4/peqpypmy/public_html/php/demo/demo.html.php on line 17
+[30-Apr-2018 21:53:38 UTC] PHP Parse error:  syntax error, unexpected 'phpButtons' (T_STRING), expecting ',' or ';' in /home4/peqpypmy/public_html/php/demo/demo.html.php on line 101
+[30-Apr-2018 21:53:41 UTC] PHP Parse error:  syntax error, unexpected 'phpButtons' (T_STRING), expecting ',' or ';' in /home4/peqpypmy/public_html/php/demo/demo.html.php on line 101
+[30-Apr-2018 21:53:48 UTC] PHP Parse error:  syntax error, unexpected 'phpButtons' (T_STRING), expecting ',' or ';' in /home4/peqpypmy/public_html/php/demo/demo.html.php on line 101
+[30-Apr-2018 21:54:02 UTC] PHP Parse error:  syntax error, unexpected 'phpButtons' (T_STRING), expecting ',' or ';' in /home4/peqpypmy/public_html/php/demo/demo.html.php on line 101
